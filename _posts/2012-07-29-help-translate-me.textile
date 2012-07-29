@@ -1,0 +1,9 @@
+---
+layout: post
+title: help translate me!
+category: beginner
+
+PS: Remove this file once a post is translated!!
+---
+
+Hey there! If you know Hebrew and would like to help translate gitready from English, we'd love to help you get it published! Jump over to the "README":https://github.com/gitready/gitready#translating to learn more.
